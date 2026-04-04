@@ -1,0 +1,6 @@
+opencv-python
+mediapipe
+ultralytics
+scipy
+numpy
+pygame
