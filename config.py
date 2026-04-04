@@ -1,0 +1,27 @@
+# thresholds e settings
+CAMERA_INDEX  = 0
+FRAME_WIDTH   = 1280
+FRAME_HEIGHT  = 720
+SIDEBAR_W     = 200
+
+# foco
+EAR_THRESHOLD          = 0.25
+EAR_CONSEC_FRAMES      = 20
+HEAD_POSE_YAW_THRESHOLD   = 25
+HEAD_POSE_PITCH_THRESHOLD = 20
+
+# emoção
+EMOTION_SKIP_FRAMES = 5
+
+# objetos
+OBJECT_CONFIDENCE  = 0.5
+OBJECT_SKIP_FRAMES = 3
+
+ORANGE = (3,  102, 239)
+MUTED  = (130, 120, 110)
+BORDER = (92,  61,  58)
+BG     = (64,  40,  37)
+TEXT   = (240, 233, 232)
+RED    = (60,  60,  180)
+YELLOW = (3,  200,  239)
+BLACK  = (20,  20,   30)
